@@ -1,4 +1,4 @@
-# MACHINE LEARNING in NIR Spectroscopy
+# Machine Learning in NIR Spectroscopy
 NIR Spectroscopy for Classification Problems based on Machine Learning Algorithms
 
 Contents:
